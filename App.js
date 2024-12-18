@@ -2,8 +2,8 @@ import React from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 
-import Start from "./components/Start"; // Import Start component
-import Chat from "./components/Chat"; // Import Chat component
+import Start from "./components/Start";
+import Chat from "./components/Chat";
 
 const Stack = createStackNavigator();
 
